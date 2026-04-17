@@ -155,6 +155,16 @@ class AlejandroRodriguez:
 
 ---
 
+### 👋 [chepe5251](https://github.com/chepe5251/chepe5251)
+> My GitHub profile repository
+
+- Personal profile README
+- Central place to showcase my work, projects, and current focus
+
+`Markdown` `GitHub Profile`
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -176,7 +186,7 @@ class AlejandroRodriguez:
 - [gestionDeUsuarios](https://github.com/chepe5251/gestionDeUsuarios)
 - [proyectoProgramacion3](https://github.com/chepe5251/proyectoProgramacion3)
 - [examen2Progra3](https://github.com/chepe5251/examen2Progra3)
-
+- [chepe5251](https://github.com/chepe5251/chepe5251)
 
 ---
 
